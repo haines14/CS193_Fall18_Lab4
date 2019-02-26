@@ -8,7 +8,7 @@ git fetch downloads from a remote repository into a users local repo.
 Task 2:
 
 // Under this line describe why we need to run 'git push' after making a commit
-You use git push to commit the changes to github.
+You use git push to commit the changes to github. Also just read now that this was supposed to be on a text editor so this is me typing that right now.
 Task 3:
 
 // Under this line, write a message to yourself from the branch 'branch-A'
