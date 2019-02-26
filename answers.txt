@@ -1,14 +1,14 @@
 Task 1:
 
 // Under this line write a message to yourself from GitHub
-
+I am hamburger, king of the hamburgers.
 // Under this line, describe what the command 'git fetch' does
-
+git fetch downloads from a remote repository into a users local repo.
 
 Task 2:
 
 // Under this line describe why we need to run 'git push' after making a commit
-
+You use git push to commit the changes to github.
 Task 3:
 
 // Under this line, write a message to yourself from the branch 'branch-A'
